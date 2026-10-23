@@ -1,0 +1,11 @@
+{
+  "authorized-market": {
+    "enabled": false,
+    "name": "获准访问的商品站点（请替换）",
+    "domains": ["shop.example.com"],
+    "search_url": "https://shop.example.com/search?q={query}",
+    "result_link_selector": "a.product-link",
+    "min_interval_seconds": 120,
+    "page_interval_seconds": 3
+  }
+}

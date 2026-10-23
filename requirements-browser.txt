@@ -1,0 +1,2 @@
+# Optional server-side browser executor; install Chromium separately.
+playwright>=1.50,<2
